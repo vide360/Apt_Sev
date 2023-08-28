@@ -1,0 +1,48 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_213C8353_3DFD_73B5_41B9_9503012B1868.source = https://wa.link/rdtso1
+
+## Media
+
+### Audio
+audiores_21901159_3DFD_4FB4_41C6_A0156C84931C.mp3Url = media/audio_203206C7_3DE7_529C_41A0_87EE896F08CC_pt.mp3
+
+### Title
+panorama_2814CC27_3C3D_559D_41B5_2FD18CE682E6.label = Aérea
+panorama_2FFB0877_3C3D_FE7C_41C3_66E29E80FA6C.label = Closet
+panorama_2FF8D676_3C3D_D27F_41C1_9AD2BF75A975.label = Corredor
+panorama_2FF8E464_3C3D_B593_41CA_6F5984D7FE8D.label = Cozinha
+panorama_2FF80151_3C3D_4FB5_419D_C8177A5C0B8D.label = Entrada
+panorama_2FF8B248_3C3D_4D93_419E_431EE744CBC4.label = Entrada principal
+panorama_2FF8AF09_3C3D_7394_4191_03821A825706.label = Frente varandas
+panorama_2FF83F0D_3C3D_53AD_41B1_E3C53A79A335.label = Piscina
+panorama_2FF81DB3_3C3C_B6F5_41C2_8C465EB80E40.label = Quarto 1
+panorama_2FF80C06_3C3C_D59F_41C9_8614BA147ECD.label = Quarto 2
+panorama_2FF8AA06_3C3C_FD9F_41BA_9A374C03D83B.label = Recepção
+panorama_2FF8586D_3C3C_DE6C_418F_90A0A67209AC.label = Sala
+panorama_2FF87757_3C3C_B3BD_41C4_B36EAA9D881A.label = Sl festas
+panorama_2FFBD5C5_3C3F_569D_41AE_95A46DAF5613.label = Suíte
+panorama_2FFBC4AD_3C3F_76ED_41CD_707B0701A717.label = Varanda
+panorama_2FFBD365_3C3F_539D_41CC_ADA6132EC890.label = W social
+panorama_2FFBD21A_3C3F_4DB7_41C0_73059B5188AC.label = Wc suíte
+panorama_2FE4CAAB_3C3D_B295_41CD_BC4F6D029F05.label = Área Piscina
+panorama_2FF899E1_3C3D_DE95_41C1_5A1FA463AE19.label = Área serviço
+
+## Skin
+
+### Button
+Button_2159164D_3DE5_75AC_41AB_F1B1E81603CF.label = Iniciar
+
+### Image
+Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5.url = skin/Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_pt.png
+Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5.url = skin/Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apt 
