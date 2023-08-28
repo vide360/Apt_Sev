@@ -3,6 +3,7 @@
 ## Action
 
 ### URL
+LinkBehaviour_1C975506_3C27_579C_41BB_CAFA4DBDADCF.source = https://wa.link/rdtso1
 LinkBehaviour_213C8353_3DFD_73B5_41B9_9503012B1868.source = https://wa.link/rdtso1
 
 ## Media
@@ -35,9 +36,12 @@ panorama_2FF899E1_3C3D_DE95_41C1_5A1FA463AE19.label = Área serviço
 
 ### Button
 Button_2159164D_3DE5_75AC_41AB_F1B1E81603CF.label = Iniciar
+Button_2159164D_3DE5_75AC_41AB_F1B1E81603CF_mobile.label = Iniciar
 
 ### Image
+Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_mobile.url = skin/Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_mobile_pt.png
 Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5.url = skin/Image_21C2003A_3DE5_4DF7_4172_D5DC74A18AC5_pt.png
+Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_mobile.url = skin/Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_mobile_pt.png
 Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5.url = skin/Image_2497D971_3DE4_BE75_41C6_45199DE8B7D5_pt.png
 
 ## Tour
